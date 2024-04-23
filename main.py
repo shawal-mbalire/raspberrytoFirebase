@@ -1,4 +1,5 @@
-from firebase import database, storage
+from myFirebase import database, storage
 
-print(database.ref.get())
-print(storage.uploadFile(src="download.jpeg",name="download.jpeg"))
+print(database.updateHumidity(61))
+print(database.updateTemperature(24))
+print(storage.uploadFile(src="download.jpeg",type="captured")) # or inferenced
