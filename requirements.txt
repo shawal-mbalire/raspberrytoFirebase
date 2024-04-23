@@ -1,0 +1,3 @@
+firebase_admin
+picamera2
+adafruit_dht
