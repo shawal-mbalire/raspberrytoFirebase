@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "green-coffee-beans-75fe4",
-  "private_key_id": "b1b756dd94877748436c66fe92d473218496222d",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDRViSYACf7YH4U\nKPhD0kUX5b+bcHgFmUKr5oqfHhsryssvXo45wT9YQqnwIX/JHvr718J0SdJ/F8Dz\nUzKcmQdBIvY8wi+rO9G6uiTx5vIuHwotu+bdgXtqaZaFD1ug/Jc4M4oJbaPI+L8D\nRJ1AMQksq9VRbua9lfyQCBmsP62Zkp5E3cc41j+A1quc49Cr5cgZ5UuECjTzvqw7\nOWGDxYlDjq7q/2EYVKLZecwCMOKkO2T36mLJfy95zd3OONUkiCWPaPe+wz1S0xMA\nj/fesm/d2ZiEOqpnTFGzaCTMVdgI5kSbPohe6T7cVIwPCGEcp5xOMPEDvM0F8ORQ\nSuXRcvvPAgMBAAECggEAHQdVC775zGIVGbaUttLxwd6aM3PlMOGP3Uaa8nW6TthQ\nVMFH97pUjmiwKBx9G+av5zyEOpwCFJ22pAdlfVG7L80pWEOVWKly6/HkLadY7gxf\n3PexjAXol1kNBmaazjg4wBJlkekiTTwxQMLDC6PBIfCyJBi85o1l+JMm/DvYVvM9\nqTnBKyPxEC+d2UhhrfwCwg0a2lj7L+bTM5M0y4jodu7ZiL9lQlPeApn2xJLqgpMA\n2lW50tA9GbI2XHSzeSUQ5P02PGUEK7RUZk28hBoz2jEMZwiqEOTLhGamOqUklEsI\nqK1xNL1DQMkPwvew1yZrc0GD3y6XVZ4sRNnLaPU8AQKBgQD22alJX7+SJDey53Z3\nePPclw0w1UcdyYDuu4Xw4iXKyqmpijNbl/z2znUfSNrtDxYlWYjmj4R5fQVR9txk\nMh0h49YGF9kQu+8IT01golmnL0ryL4xqE7fXWaM9HTIPgPN4hLmbO08R7F0eJAD3\nNhnYPdd1Y3awIrB0HmiUJ4ecJQKBgQDZGIRslVbIvQ1zDLAxzvQnDwRcRoqYt7Sj\nhAcJATztWZcJOG7IKDK0bJixRa7GGp++V29XBzeO8m/Bgzfvp8+wdReV43FemOek\n/ARQbGIGTfftw9ykkHUHnNzxkCvq+C9HBpKep7Oj+m/AgkFyfyNTkOK/Nkn8UYTk\nZDEvVSs74wKBgQC5lzJA2T0V6ib6Wi3ma0ila+fd9CwwyAQo+VIdplmVm0NuFVrB\nnYbyJI1IRSVcIACdejCEcBjAom9yjXBr4IWoqjyKfjmT7Egt7jmV0tom6VamuXsP\ncd3BikJBu4acw23KCbfmbvPm3Nexxo33T3Sk8PHh7zMYACy8UPR9ly7NBQKBgF4U\niubHfRl3HEn8eKrNJe97SYd3pn5yNh0ajTXwzGeLiLGdPB0PlpGr8iv4p7oANbP2\nDjEn1oLjO10gMXBxR8cPp030h9/X4aMU+AWmQoC67zOhyo+ibqUC7JjewrmMHmjo\nR0fsIyRv1lgV2qj0weloA2ub6konRbD4XnxFq3vDAoGAOnaizcu7iwIUGeEz6UNm\nhKXARY1lI+iT5rcDhbDmlD7JFbSrQinvhFFMjQE+kYnv9BM4RQMGyT7TafaqEU+Q\n9XChVg6Yr/s1+21JIcTPMdMR+WqUGJvYSFqxkU1XISL/uWnyDmmS2i2EAJktVaAi\nfF7TVL31qiLLP7TPT9CcORw=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-w66i0@green-coffee-beans-75fe4.iam.gserviceaccount.com",
-  "client_id": "116814980233659770321",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-w66i0%40green-coffee-beans-75fe4.iam.gserviceaccount.com",
+  "client_x509_cert_url": "",
   "universe_domain": "googleapis.com"
 }
